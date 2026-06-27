@@ -1,0 +1,17 @@
+{
+  "name": "tree-insurance-backend",
+  "version": "1.3.0",
+  "description": "Secure backend with hardcoded Telegram proxy and server-side protection.",
+  "main": "server.js",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-session": "^1.18.1"
+  }
+}
